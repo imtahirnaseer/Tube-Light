@@ -30,7 +30,7 @@ The light begins to glow with an orange hue, giving a warm ambiance.
 
 ### 3. Fully Turned On  
 The digital clock inside the tube light is fully illuminated, displaying the current time and date.
-![Fully Turning On](https://github.com/imtahirnaseer/Tube-Light/blob/2df76088ab2707a3388c5340db66f64885602135/Screenshot%202024-11-22%20181758.png
+![Fully Turning On](https://github.com/imtahirnaseer/Tube-Light/blob/2df76088ab2707a3388c5340db66f64885602135/Screenshot%202024-11-22%20181758.png).
 
 ---
 
@@ -40,3 +40,11 @@ The digital clock inside the tube light is fully illuminated, displaying the cur
    ```bash
    git clone https://github.com/imtahirnaseer/Tube-Light.git
    cd tubelight-simulation
+
+
+tubelight-simulation/  
+│  
+├── index.html  # Main HTML file  
+├── style.css   # CSS file for styling  
+├── script.js   # JavaScript for functionality  
+└── images/     # Folder containing images for states  
