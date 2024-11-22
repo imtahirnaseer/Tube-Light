@@ -22,12 +22,15 @@ The design takes inspiration from a **Nixie Tube Clock**, giving it a retro-futu
 
 ### 1. Before Turning On  
 The tube light appears off, with no illumination or display.  
+![Before Turning On](https://github.com/imtahirnaseer/Tube-Light/blob/2df76088ab2707a3388c5340db66f64885602135/Screenshot%202024-11-22%20181325.png)
 
 ### 2. Turning On  
 The light begins to glow with an orange hue, giving a warm ambiance.  
+![Turning On](https://github.com/imtahirnaseer/Tube-Light/blob/2df76088ab2707a3388c5340db66f64885602135/Screenshot%202024-11-22%20181349.png)
 
 ### 3. Fully Turned On  
 The digital clock inside the tube light is fully illuminated, displaying the current time and date.
+![Fully Turning On]((https://github.com/imtahirnaseer/Tube-Light/blob/2df76088ab2707a3388c5340db66f64885602135/Screenshot%202024-11-22%20181758.png
 
 ---
 
